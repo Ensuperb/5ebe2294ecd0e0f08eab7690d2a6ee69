@@ -1,6 +1,19 @@
 # 5ebe2294ecd0e0f08eab7690d2a6ee69
 Q29tbXVuaWNhdGlvbiBmb2xsb3dpbmcgZmlsZXMgd2l0aG91dCBwZXJtaXR0aW9uIHdpbGwgYmUgbGVnYWxseSByZXNwb25zaWJsZQ==
 
+## 声明在前
+
+---
+
+1. 使用者在阅读时需要考虑自己是否需要，此文档只提供给需要的人，不需要的可以`Alt+F4 / Ctrl + W`，谢谢。
+2. 此文档只提供借鉴参考，请在使用后丢弃，如出现任何后果由使用者自己承担。
+
+![](a.jpg)
+
+
+
+
+
 ## 使用条件
 
 ---
@@ -39,12 +52,5 @@ Q29tbXVuaWNhdGlvbiBmb2xsb3dpbmcgZmlsZXMgd2l0aG91dCBwZXJtaXR0aW9uIHdpbGwgYmUgbGVn
 
 
 
-## 声明在前
 
----
-
-1. 使用者在阅读时需要考虑自己是否需要，此文档只提供给需要的人，不需要的可以`Alt+F4 / Ctrl + W`，谢谢。
-2. 此文档只提供借鉴参考，请在使用后丢弃，如出现任何后果由使用者自己承担。
-
-![](a.jpg)
 
