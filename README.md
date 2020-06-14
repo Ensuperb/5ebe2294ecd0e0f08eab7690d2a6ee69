@@ -20,7 +20,7 @@ Q29tbXVuaWNhdGlvbiBmb2xsb3dpbmcgZmlsZXMgd2l0aG91dCBwZXJtaXR0aW9uIHdpbGwgYmUgbGVn
 
 [注册Github需要指导](https://imfokho.github.io/posts/signupgithubtutorial/)
 
-使用文档需要你输入特定的密码，这个密码需要你`Follow`imfokho并`Star`此项目后将自己的信息递交给imfokho验证后（发微信给我）方可使用密码。
+使用文档需要你输入特定的密码，这个密码需要你`Follow`imfokho后将自己的信息递交给imfokho验证后（发微信给我）方可使用密码。
 
 **本项目建立在`Apache License 2.0`协议的基础上不允许私自分发、转阅、转载，除非经过本人批准。**
 
