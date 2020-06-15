@@ -5,7 +5,7 @@ Q29tbXVuaWNhdGlvbiBmb2xsb3dpbmcgZmlsZXMgd2l0aG91dCBwZXJtaXR0aW9uIHdpbGwgYmUgbGVn
 
 ---
 
-1. 使用者在阅读时需要考虑自己是否需要，此文档只提供给需要的人，不需要的可以`Alt+F4 / Ctrl + W`，谢谢。
+1. 使用者在阅读时需要考虑自己是否需要，此文档只提供给需要的人，不需要的可以`Alt + F4 / Ctrl + W`，谢谢。
 2. 此文档只提供借鉴参考，请在使用后丢弃，如出现任何后果由使用者自己承担。
 
 ![](a.jpg)
@@ -21,6 +21,8 @@ Q29tbXVuaWNhdGlvbiBmb2xsb3dpbmcgZmlsZXMgd2l0aG91dCBwZXJtaXR0aW9uIHdpbGwgYmUgbGVn
 [注册Github需要指导](https://imfokho.github.io/posts/signupgithubtutorial/)
 
 使用文档需要你输入特定的密码，这个密码需要你`Follow`imfokho后将自己的信息递交给imfokho验证后（发微信给我）方可使用密码。
+
+(概括：获得密码唯一合法途径就是Follow了之后交给我验证，由我来分发密码。)
 
 **本项目建立在`Apache License 2.0`协议的基础上不允许私自分发、转阅、转载，除非经过本人批准。**
 
